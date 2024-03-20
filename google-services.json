@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916302084651",
+    "project_id": "jayshoppers-cc8a8",
+    "storage_bucket": "jayshoppers-cc8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916302084651:android:4da15b631f721a59c3886e",
+        "android_client_info": {
+          "package_name": "com.jayshoppers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvX1zCSs31-kKUtCJM4qsqfAu7uJO8FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
